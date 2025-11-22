@@ -1,3 +1,2 @@
 # Rag-implementstion
 
-rag answers 
